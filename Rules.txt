@@ -1,0 +1,4 @@
+Booking reles
+
+1. one student can have one active boking
+2. cancellation is allowed befor the session.
